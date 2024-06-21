@@ -2,7 +2,9 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 - 🌱 I’m currently learning **react.js**
-
+  
+- 🎦My Project using Frontend is a **Digital Clock**
+  
 - 💬 All of my projects are available at **https://github.com/Vishwas7803**
 
 - 📫 How to reach me **vishwassengar0@gmail.com**
