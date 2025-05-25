@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **node.js**
   
-- 🎦My Project using Frontend is a **Digital Clock**
+- 🎦My Project using Frontend is a **ChatBOT**
   
 - 💬 All of my projects are available at **https://github.com/Vishwas7803**
 
